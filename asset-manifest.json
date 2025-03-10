@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.ab7ab894.js",
-    "static/js/453.49c58f0d.chunk.js": "/static/js/453.49c58f0d.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.ab7ab894.js.map": "/static/js/main.ab7ab894.js.map",
-    "453.49c58f0d.chunk.js.map": "/static/js/453.49c58f0d.chunk.js.map"
+    "main.css": "/yakundami.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/yakundami.github.io/static/js/main.45a6809f.js",
+    "static/js/453.49c58f0d.chunk.js": "/yakundami.github.io/static/js/453.49c58f0d.chunk.js",
+    "index.html": "/yakundami.github.io/index.html",
+    "main.e6c13ad2.css.map": "/yakundami.github.io/static/css/main.e6c13ad2.css.map",
+    "main.45a6809f.js.map": "/yakundami.github.io/static/js/main.45a6809f.js.map",
+    "453.49c58f0d.chunk.js.map": "/yakundami.github.io/static/js/453.49c58f0d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ab7ab894.js"
+    "static/js/main.45a6809f.js"
   ]
 }
