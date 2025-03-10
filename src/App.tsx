@@ -85,7 +85,7 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <BrowserRouter>
+      <BrowserRouter basename="/yakundami.github.io">
         <Layout>
           <Routes>
             <Route path="/" element={<Home />} />
